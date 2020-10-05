@@ -1,0 +1,20 @@
+{
+    "product":[{
+        "id":1,
+        "name":"Samsung A10",
+        "type":"mobile",
+        "subType":"gadgets",
+        "quantity":250,
+        "price":10999
+    },
+    {
+            "id":2,
+            "name":"Samsung M31",
+            "type":"mobile",
+            "subType":"gadgets",
+            "quantity":250,
+            "price":16999
+        }
+    
+]
+}
